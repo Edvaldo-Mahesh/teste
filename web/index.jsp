@@ -26,6 +26,11 @@
             soma : <%=soma%>
             Boa tarde
             
+            a: <input type="number" required name="a"/><br/>
+            b: <input type="number" required name="b"/><br/>
+            <input type="submit" name="somar" value="somar"/><br/>
+            soma : <%=soma%>
+            
         </form>
     </body>
 </html>
