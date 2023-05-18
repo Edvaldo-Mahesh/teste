@@ -24,6 +24,7 @@
             b: <input type="number" required name="b"/><br/>
             <input type="submit" name="somar" value="somar"/><br/>
             soma : <%=soma%>
+            Boa tarde
             
         </form>
     </body>
